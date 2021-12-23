@@ -1,2 +1,2 @@
-# html5-web-template-1
+# html5
 I am publishing Website Templates in HTML5.
